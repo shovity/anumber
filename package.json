@@ -1,0 +1,9 @@
+{
+  "name": "anumber",
+  "version": "1.0.0",
+  "description": "Encode and decode shorten number",
+  "main": "app.js",
+  "repository": "https://github.com/shovity/anumber.git",
+  "author": "shovity <shovity@gmail.com>",
+  "license": "MIT"
+}
